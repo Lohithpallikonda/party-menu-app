@@ -1,0 +1,1902 @@
+[
+  {
+    "categoryId": 1,
+    "mealType": "MAIN COURSE",
+    "type": "VEG",
+    "description": "Creamy tomato-based curry with soft paneer cubes and aromatic spices.",
+    "image": "https://storage.googleapis.com/chefkartimages/dishes/veg_curry_8.jpg",
+    "category": {
+      "id": 1,
+      "name": "North Indian",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/north_indian.png",
+      "isRecommendedForMealSuggestion": true
+    },
+    "dishType": "CURRY",
+    "forChefit": true,
+    "forParty": true,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 1,
+    "name": "Paneer Butter Masala"
+  },
+  {
+    "categoryId": 1,
+    "mealType": "MAIN COURSE",
+    "type": "VEG",
+    "description": "Rich and creamy black lentils slow-cooked with butter and cream.",
+    "image": "https://storage.googleapis.com/chefkartimages/dishes/veg_curry_3.jpg",
+    "category": {
+      "id": 1,
+      "name": "North Indian",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/north_indian.png",
+      "isRecommendedForMealSuggestion": true
+    },
+    "dishType": "DAL",
+    "forChefit": false,
+    "forParty": true,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 2,
+    "name": "Dal Makhani"
+  },
+  {
+    "categoryId": 1,
+    "mealType": "MAIN COURSE",
+    "type": "NON_VEG",
+    "description": "Tender chicken pieces in a rich, spiced tomato cream sauce.",
+    "image": "https://storage.googleapis.com/chefkartimages/dishes/non_veg_curry_7.jpg",
+    "category": {
+      "id": 1,
+      "name": "North Indian",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/north_indian.png",
+      "isRecommendedForMealSuggestion": true
+    },
+    "dishType": "CURRY",
+    "forChefit": true,
+    "forParty": true,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 3,
+    "name": "Chicken Tikka Masala"
+  },
+  {
+    "categoryId": 1,
+    "mealType": "MAIN COURSE",
+    "type": "NON_VEG",
+    "description": "Aromatic lamb curry with Kashmiri spices and yogurt gravy.",
+    "image": "https://storage.googleapis.com/chefkartimages/dishes/non_veg_curry_8.jpg",
+    "category": {
+      "id": 1,
+      "name": "North Indian",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/north_indian.png",
+      "isRecommendedForMealSuggestion": true
+    },
+    "dishType": "CURRY",
+    "forChefit": true,
+    "forParty": true,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 4,
+    "name": "Mutton Rogan Josh"
+  },
+  {
+    "categoryId": 1,
+    "mealType": "MAIN COURSE",
+    "type": "VEG",
+    "description": "Fresh spinach curry with cubes of cottage cheese and mild spices.",
+    "image": "https://storage.googleapis.com/chefkartimages/dishes/veg_curry_6.jpg",
+    "category": {
+      "id": 1,
+      "name": "North Indian",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/north_indian.png",
+      "isRecommendedForMealSuggestion": true
+    },
+    "dishType": "CURRY",
+    "forChefit": true,
+    "forParty": true,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 5,
+    "name": "Palak Paneer"
+  },
+  {
+    "categoryId": 1,
+    "mealType": "MAIN COURSE",
+    "type": "VEG",
+    "description": "Paneer cubes in spicy onion gravy with onions and capsicum cubes.",
+    "image": "https://storage.googleapis.com/chefkartimages/dishes/veg_curry_2.jpg",
+    "category": {
+      "id": 1,
+      "name": "North Indian",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/north_indian.png",
+      "isRecommendedForMealSuggestion": true
+    },
+    "dishType": "CURRY",
+    "forChefit": true,
+    "forParty": true,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 6,
+    "name": "Kadhai Paneer"
+  },
+  {
+    "categoryId": 1,
+    "mealType": "MAIN COURSE",
+    "type": "NON_VEG",
+    "description": "Creamy tomato-based chicken curry with butter and cream.",
+    "image": "https://storage.googleapis.com/chefkartimages/dishes/non_veg_curry_2.jpg",
+    "category": {
+      "id": 1,
+      "name": "North Indian",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/north_indian.png",
+      "isRecommendedForMealSuggestion": true
+    },
+    "dishType": "CURRY",
+    "forChefit": true,
+    "forParty": true,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 7,
+    "name": "Butter Chicken"
+  },
+  {
+    "categoryId": 1,
+    "mealType": "MAIN COURSE",
+    "type": "VEG",
+    "description": "Spiced potato and cauliflower curry with turmeric and garam masala.",
+    "image": "https://storage.googleapis.com/chefkartimages/dishes/veg_curry_5.jpg",
+    "category": {
+      "id": 1,
+      "name": "North Indian",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/north_indian.png",
+      "isRecommendedForMealSuggestion": true
+    },
+    "dishType": "CURRY",
+    "forChefit": true,
+    "forParty": true,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 8,
+    "name": "Aloo Gobi"
+  },
+  {
+    "categoryId": 1,
+    "mealType": "MAIN COURSE",
+    "type": "NON_VEG",
+    "description": "Traditional spiced chicken curry with onions and tomatoes.",
+    "image": "https://storage.googleapis.com/chefkartimages/dishes/non_veg_curry_7.jpg",
+    "category": {
+      "id": 1,
+      "name": "North Indian",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/north_indian.png",
+      "isRecommendedForMealSuggestion": true
+    },
+    "dishType": "CURRY",
+    "forChefit": true,
+    "forParty": true,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 9,
+    "name": "Chicken Curry"
+  },
+  {
+    "categoryId": 1,
+    "mealType": "MAIN COURSE",
+    "type": "VEG",
+    "description": "Red kidney beans cooked in thick tomato-based gravy.",
+    "image": "https://storage.googleapis.com/chefkartimages/dishes/veg_curry_2.jpg",
+    "category": {
+      "id": 1,
+      "name": "North Indian",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/north_indian.png",
+      "isRecommendedForMealSuggestion": true
+    },
+    "dishType": "CURRY",
+    "forChefit": true,
+    "forParty": true,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 10,
+    "name": "Rajma"
+  },
+  {
+    "categoryId": 1,
+    "mealType": "MAIN COURSE",
+    "type": "VEG",
+    "description": "Spiced chickpeas in tangy tomato and onion gravy.",
+    "image": "https://storage.googleapis.com/chefkartimages/dishes/veg_curry_1.jpg",
+    "category": {
+      "id": 1,
+      "name": "North Indian",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/north_indian.png",
+      "isRecommendedForMealSuggestion": true
+    },
+    "dishType": "CURRY",
+    "forChefit": true,
+    "forParty": true,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 11,
+    "name": "Chole"
+  },
+  {
+    "categoryId": 1,
+    "mealType": "MAIN COURSE",
+    "type": "NON_VEG",
+    "description": "Fresh fish cooked in aromatic spices and curry sauce.",
+    "image": "https://storage.googleapis.com/chefkartimages/dishes/non_veg_curry_6.jpg",
+    "category": {
+      "id": 1,
+      "name": "North Indian",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/north_indian.png",
+      "isRecommendedForMealSuggestion": true
+    },
+    "dishType": "CURRY",
+    "forChefit": true,
+    "forParty": true,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 12,
+    "name": "Fish Curry"
+  },
+  {
+    "categoryId": 1,
+    "mealType": "MAIN COURSE",
+    "type": "NON_VEG",
+    "description": "Spiced minced meat curry with peas and potatoes.",
+    "image": "https://storage.googleapis.com/chefkartimages/dishes/non_veg_curry_3.jpg",
+    "category": {
+      "id": 1,
+      "name": "North Indian",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/north_indian.png",
+      "isRecommendedForMealSuggestion": true
+    },
+    "dishType": "CURRY",
+    "forChefit": true,
+    "forParty": true,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 13,
+    "name": "Keema Curry"
+  },
+  {
+    "categoryId": 1,
+    "mealType": "MAIN COURSE",
+    "type": "VEG",
+    "description": "Rich and creamy paneer in buttery tomato sauce.",
+    "image": "https://storage.googleapis.com/chefkartimages/dishes/veg_curry_2.jpg",
+    "category": {
+      "id": 1,
+      "name": "North Indian",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/north_indian.png",
+      "isRecommendedForMealSuggestion": true
+    },
+    "dishType": "CURRY",
+    "forChefit": true,
+    "forParty": true,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 14,
+    "name": "Paneer Makhani"
+  },
+  {
+    "categoryId": 1,
+    "mealType": "MAIN COURSE",
+    "type": "NON_VEG",
+    "description": "Mild chicken curry in coconut and cashew gravy.",
+    "image": "https://storage.googleapis.com/chefkartimages/dishes/non_veg_curry_2.jpg",
+    "category": {
+      "id": 1,
+      "name": "North Indian",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/north_indian.png",
+      "isRecommendedForMealSuggestion": true
+    },
+    "dishType": "CURRY",
+    "forChefit": true,
+    "forParty": true,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 15,
+    "name": "Chicken Korma"
+  },
+  {
+    "categoryId": 1,
+    "mealType": "MAIN COURSE",
+    "type": "VEG",
+    "description": "Spiced okra curry with onions and tomatoes.",
+    "image": "https://storage.googleapis.com/chefkartimages/dishes/veg_curry_6.jpg",
+    "category": {
+      "id": 1,
+      "name": "North Indian",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/north_indian.png",
+      "isRecommendedForMealSuggestion": true
+    },
+    "dishType": "CURRY",
+    "forChefit": true,
+    "forParty": true,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 16,
+    "name": "Bhindi Masala"
+  },
+  {
+    "categoryId": 1,
+    "mealType": "MAIN COURSE",
+    "type": "NON_VEG",
+    "description": "Hard-boiled eggs in spiced tomato and onion gravy.",
+    "image": "https://storage.googleapis.com/chefkartimages/dishes/non_veg_curry_1.jpg",
+    "category": {
+      "id": 1,
+      "name": "North Indian",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/north_indian.png",
+      "isRecommendedForMealSuggestion": true
+    },
+    "dishType": "CURRY",
+    "forChefit": true,
+    "forParty": true,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 17,
+    "name": "Egg Curry"
+  },
+  {
+    "categoryId": 1,
+    "mealType": "MAIN COURSE",
+    "type": "VEG",
+    "description": "Grilled paneer cubes in creamy tomato sauce.",
+    "image": "https://storage.googleapis.com/chefkartimages/dishes/veg_curry_5.jpg",
+    "category": {
+      "id": 1,
+      "name": "North Indian",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/north_indian.png",
+      "isRecommendedForMealSuggestion": true
+    },
+    "dishType": "CURRY",
+    "forChefit": true,
+    "forParty": true,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 18,
+    "name": "Paneer Tikka Masala"
+  },
+  {
+    "categoryId": 1,
+    "mealType": "MAIN COURSE",
+    "type": "NON_VEG",
+    "description": "Tender mutton pieces in traditional spiced gravy.",
+    "image": "https://storage.googleapis.com/chefkartimages/dishes/non_veg_curry_7.jpg",
+    "category": {
+      "id": 1,
+      "name": "North Indian",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/north_indian.png",
+      "isRecommendedForMealSuggestion": true
+    },
+    "dishType": "CURRY",
+    "forChefit": true,
+    "forParty": true,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 19,
+    "name": "Mutton Curry"
+  },
+  {
+    "categoryId": 1,
+    "mealType": "MAIN COURSE",
+    "type": "VEG",
+    "description": "Combination of lentils cooked with spices and herbs.",
+    "image": "https://storage.googleapis.com/chefkartimages/dishes/veg_curry_7.jpg",
+    "category": {
+      "id": 1,
+      "name": "North Indian",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/north_indian.png",
+      "isRecommendedForMealSuggestion": true
+    },
+    "dishType": "DAL",
+    "forChefit": false,
+    "forParty": true,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 20,
+    "name": "Mixed Dal"
+  },
+  {
+    "categoryId": 2,
+    "mealType": "MAIN COURSE",
+    "type": "VEG",
+    "description": "Tangy lentil curry with vegetables and tamarind.",
+    "image": "https://storage.googleapis.com/chefkartimages/dishes/veg_curry_1.jpg",
+    "category": {
+      "id": 2,
+      "name": "South Indian",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/south_indian.png",
+      "isRecommendedForMealSuggestion": true
+    },
+    "dishType": "CURRY",
+    "forChefit": true,
+    "forParty": true,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 21,
+    "name": "Sambar"
+  },
+  {
+    "categoryId": 2,
+    "mealType": "MAIN COURSE",
+    "type": "NON_VEG",
+    "description": "Spicy coconut-based fish curry with curry leaves and mustard seeds.",
+    "image": "https://storage.googleapis.com/chefkartimages/dishes/non_veg_curry_2.jpg",
+    "category": {
+      "id": 2,
+      "name": "South Indian",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/south_indian.png",
+      "isRecommendedForMealSuggestion": true
+    },
+    "dishType": "CURRY",
+    "forChefit": true,
+    "forParty": true,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 22,
+    "name": "Fish Curry"
+  },
+  {
+    "categoryId": 2,
+    "mealType": "SOUP",
+    "type": "VEG",
+    "description": "Tangy and spicy tomato soup with tamarind and traditional spices.",
+    "image": "https://storage.googleapis.com/chefkartimages/dishes/veg_curry_7.jpg",
+    "category": {
+      "id": 2,
+      "name": "South Indian",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/south_indian.png",
+      "isRecommendedForMealSuggestion": true
+    },
+    "dishType": "SOUP",
+    "forChefit": false,
+    "forParty": false,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 23,
+    "name": "Rasam"
+  },
+  {
+    "categoryId": 2,
+    "mealType": "MAIN COURSE",
+    "type": "NON_VEG",
+    "description": "Fiery chicken curry from Tamil Nadu with roasted spices.",
+    "image": "https://storage.googleapis.com/chefkartimages/dishes/non_veg_curry_5.jpg",
+    "category": {
+      "id": 2,
+      "name": "South Indian",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/south_indian.png",
+      "isRecommendedForMealSuggestion": true
+    },
+    "dishType": "CURRY",
+    "forChefit": true,
+    "forParty": true,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 24,
+    "name": "Chicken Chettinad"
+  },
+  {
+    "categoryId": 2,
+    "mealType": "MAIN COURSE",
+    "type": "VEG",
+    "description": "Mixed vegetables in a coconut and cashew-based creamy gravy.",
+    "image": "https://storage.googleapis.com/chefkartimages/dishes/veg_curry_5.jpg",
+    "category": {
+      "id": 2,
+      "name": "South Indian",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/south_indian.png",
+      "isRecommendedForMealSuggestion": true
+    },
+    "dishType": "CURRY",
+    "forChefit": true,
+    "forParty": true,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 25,
+    "name": "Vegetable Korma"
+  },
+  {
+    "categoryId": 2,
+    "mealType": "MAIN COURSE",
+    "type": "NON_VEG",
+    "description": "Fresh prawns in coconut milk with South Indian spices.",
+    "image": "https://storage.googleapis.com/chefkartimages/dishes/non_veg_curry_2.jpg",
+    "category": {
+      "id": 2,
+      "name": "South Indian",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/south_indian.png",
+      "isRecommendedForMealSuggestion": true
+    },
+    "dishType": "CURRY",
+    "forChefit": true,
+    "forParty": true,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 26,
+    "name": "Prawn Curry"
+  },
+  {
+    "categoryId": 2,
+    "mealType": "MAIN COURSE",
+    "type": "VEG",
+    "description": "Mixed vegetables and lentils cooked with coconut and spices.",
+    "image": "https://storage.googleapis.com/chefkartimages/dishes/veg_curry_7.jpg",
+    "category": {
+      "id": 2,
+      "name": "South Indian",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/south_indian.png",
+      "isRecommendedForMealSuggestion": true
+    },
+    "dishType": "CURRY",
+    "forChefit": true,
+    "forParty": true,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 27,
+    "name": "Kootu"
+  },
+  {
+    "categoryId": 2,
+    "mealType": "MAIN COURSE",
+    "type": "NON_VEG",
+    "description": "Traditional South Indian chicken curry with coconut.",
+    "image": "https://storage.googleapis.com/chefkartimages/dishes/non_veg_curry_7.jpg",
+    "category": {
+      "id": 2,
+      "name": "South Indian",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/south_indian.png",
+      "isRecommendedForMealSuggestion": true
+    },
+    "dishType": "CURRY",
+    "forChefit": true,
+    "forParty": true,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 28,
+    "name": "Chicken Curry"
+  },
+  {
+    "categoryId": 2,
+    "mealType": "MAIN COURSE",
+    "type": "VEG",
+    "description": "Mixed vegetables in coconut and yogurt gravy.",
+    "image": "https://storage.googleapis.com/chefkartimages/dishes/veg_curry_6.jpg",
+    "category": {
+      "id": 2,
+      "name": "South Indian",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/south_indian.png",
+      "isRecommendedForMealSuggestion": true
+    },
+    "dishType": "CURRY",
+    "forChefit": true,
+    "forParty": true,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 29,
+    "name": "Avial"
+  },
+  {
+    "categoryId": 2,
+    "mealType": "MAIN COURSE",
+    "type": "NON_VEG",
+    "description": "Spicy mutton curry with South Indian spices.",
+    "image": "https://storage.googleapis.com/chefkartimages/dishes/non_veg_curry_8.jpg",
+    "category": {
+      "id": 2,
+      "name": "South Indian",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/south_indian.png",
+      "isRecommendedForMealSuggestion": true
+    },
+    "dishType": "CURRY",
+    "forChefit": true,
+    "forParty": true,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 30,
+    "name": "Mutton Curry"
+  },
+  {
+    "categoryId": 2,
+    "mealType": "MAIN COURSE",
+    "type": "VEG",
+    "description": "Yogurt-based curry with vegetables and spices.",
+    "image": "https://storage.googleapis.com/chefkartimages/dishes/veg_curry_6.jpg",
+    "category": {
+      "id": 2,
+      "name": "South Indian",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/south_indian.png",
+      "isRecommendedForMealSuggestion": true
+    },
+    "dishType": "CURRY",
+    "forChefit": true,
+    "forParty": true,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 31,
+    "name": "Mor Kulambu"
+  },
+  {
+    "categoryId": 2,
+    "mealType": "STARTER",
+    "type": "NON_VEG",
+    "description": "Crispy fried fish marinated with South Indian spices.",
+    "image": "https://storage.googleapis.com/chefkartimages/dishes/non_veg_starter_1.jpg",
+    "category": {
+      "id": 2,
+      "name": "South Indian",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/south_indian.png",
+      "isRecommendedForMealSuggestion": true
+    },
+    "dishType": "STARTER",
+    "forChefit": false,
+    "forParty": true,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 32,
+    "name": "Fish Fry"
+  },
+  {
+    "categoryId": 2,
+    "mealType": "SIDE DISH",
+    "type": "VEG",
+    "description": "Dry vegetable curry with coconut and curry leaves.",
+    "image": "https://storage.googleapis.com/chefkartimages/dishes/veg_curry_4.jpg",
+    "category": {
+      "id": 2,
+      "name": "South Indian",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/south_indian.png",
+      "isRecommendedForMealSuggestion": true
+    },
+    "dishType": "SIDE",
+    "forChefit": false,
+    "forParty": false,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 33,
+    "name": "Poriyal"
+  },
+  {
+    "categoryId": 2,
+    "mealType": "STARTER",
+    "type": "NON_VEG",
+    "description": "Spicy fried chicken with South Indian masala.",
+    "image": "https://storage.googleapis.com/chefkartimages/dishes/non_veg_starter_7.jpg",
+    "category": {
+      "id": 2,
+      "name": "South Indian",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/south_indian.png",
+      "isRecommendedForMealSuggestion": true
+    },
+    "dishType": "STARTER",
+    "forChefit": false,
+    "forParty": true,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 34,
+    "name": "Chicken Fry"
+  },
+  {
+    "categoryId": 2,
+    "mealType": "MAIN COURSE",
+    "type": "VEG",
+    "description": "Tangy tamarind-based vegetable curry.",
+    "image": "https://storage.googleapis.com/chefkartimages/dishes/veg_curry_4.jpg",
+    "category": {
+      "id": 2,
+      "name": "South Indian",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/south_indian.png",
+      "isRecommendedForMealSuggestion": true
+    },
+    "dishType": "CURRY",
+    "forChefit": true,
+    "forParty": true,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 35,
+    "name": "Kuzhambu"
+  },
+  {
+    "categoryId": 2,
+    "mealType": "MAIN COURSE",
+    "type": "NON_VEG",
+    "description": "Hard-boiled eggs in coconut and tomato gravy.",
+    "image": "https://storage.googleapis.com/chefkartimages/dishes/non_veg_curry_2.jpg",
+    "category": {
+      "id": 2,
+      "name": "South Indian",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/south_indian.png",
+      "isRecommendedForMealSuggestion": true
+    },
+    "dishType": "CURRY",
+    "forChefit": true,
+    "forParty": true,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 36,
+    "name": "Egg Curry"
+  },
+  {
+    "categoryId": 2,
+    "mealType": "SIDE DISH",
+    "type": "VEG",
+    "description": "Green beans stir-fried with coconut and spices.",
+    "image": "https://storage.googleapis.com/chefkartimages/dishes/veg_curry_3.jpg",
+    "category": {
+      "id": 2,
+      "name": "South Indian",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/south_indian.png",
+      "isRecommendedForMealSuggestion": true
+    },
+    "dishType": "SIDE",
+    "forChefit": false,
+    "forParty": false,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 37,
+    "name": "Beans Poriyal"
+  },
+  {
+    "categoryId": 2,
+    "mealType": "STARTER",
+    "type": "NON_VEG",
+    "description": "Crispy fried prawns with South Indian spices.",
+    "image": "https://storage.googleapis.com/chefkartimages/dishes/non_veg_starter_7.jpg",
+    "category": {
+      "id": 2,
+      "name": "South Indian",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/south_indian.png",
+      "isRecommendedForMealSuggestion": true
+    },
+    "dishType": "STARTER",
+    "forChefit": false,
+    "forParty": true,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 38,
+    "name": "Prawn Fry"
+  },
+  {
+    "categoryId": 2,
+    "mealType": "MAIN COURSE",
+    "type": "VEG",
+    "description": "Spiced cabbage curry with coconut and curry leaves.",
+    "image": "https://storage.googleapis.com/chefkartimages/dishes/veg_curry_8.jpg",
+    "category": {
+      "id": 2,
+      "name": "South Indian",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/south_indian.png",
+      "isRecommendedForMealSuggestion": true
+    },
+    "dishType": "CURRY",
+    "forChefit": true,
+    "forParty": true,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 39,
+    "name": "Cabbage Curry"
+  },
+  {
+    "categoryId": 2,
+    "mealType": "MAIN COURSE",
+    "type": "NON_VEG",
+    "description": "Mild fish curry in coconut milk with ginger and green chilies.",
+    "image": "https://storage.googleapis.com/chefkartimages/dishes/non_veg_curry_7.jpg",
+    "category": {
+      "id": 2,
+      "name": "South Indian",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/south_indian.png",
+      "isRecommendedForMealSuggestion": true
+    },
+    "dishType": "CURRY",
+    "forChefit": true,
+    "forParty": true,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 40,
+    "name": "Fish Molee"
+  },
+  {
+    "categoryId": 3,
+    "mealType": "STARTER",
+    "type": "VEG",
+    "description": "Crispy vegetable balls in tangy Indo-Chinese sauce.",
+    "image": "https://storage.googleapis.com/chefkartimages/dishes/veg_starter_6.jpg",
+    "category": {
+      "id": 3,
+      "name": "Chinese",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/chinese.png",
+      "isRecommendedForMealSuggestion": false
+    },
+    "dishType": "STARTER",
+    "forChefit": false,
+    "forParty": true,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 41,
+    "name": "Veg Manchurian"
+  },
+  {
+    "categoryId": 3,
+    "mealType": "STARTER",
+    "type": "NON_VEG",
+    "description": "Spicy chicken pieces stir-fried with bell peppers and onions.",
+    "image": "https://storage.googleapis.com/chefkartimages/dishes/non_veg_starter_1.jpg",
+    "category": {
+      "id": 3,
+      "name": "Chinese",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/chinese.png",
+      "isRecommendedForMealSuggestion": false
+    },
+    "dishType": "STARTER",
+    "forChefit": false,
+    "forParty": true,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 42,
+    "name": "Chicken Chilli"
+  },
+  {
+    "categoryId": 3,
+    "mealType": "NOODLES",
+    "type": "VEG",
+    "description": "Stir-fried noodles with vegetables and soy sauce.",
+    "image": "https://storage.googleapis.com/chefkartimages/dishes/veg_curry_5.jpg",
+    "category": {
+      "id": 3,
+      "name": "Chinese",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/chinese.png",
+      "isRecommendedForMealSuggestion": false
+    },
+    "dishType": "NOODLES",
+    "forChefit": false,
+    "forParty": true,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 43,
+    "name": "Hakka Noodles"
+  },
+  {
+    "categoryId": 3,
+    "mealType": "MAIN COURSE",
+    "type": "NON_VEG",
+    "description": "Fresh fish fillets cooked in savory black bean sauce.",
+    "image": "https://storage.googleapis.com/chefkartimages/dishes/non_veg_curry_5.jpg",
+    "category": {
+      "id": 3,
+      "name": "Chinese",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/chinese.png",
+      "isRecommendedForMealSuggestion": false
+    },
+    "dishType": "MAIN COURSE",
+    "forChefit": true,
+    "forParty": true,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 44,
+    "name": "Fish in Black Bean Sauce"
+  },
+  {
+    "categoryId": 3,
+    "mealType": "MAIN COURSE",
+    "type": "NON_VEG",
+    "description": "Wok-fried rice with chicken pieces and vegetables.",
+    "image": "https://storage.googleapis.com/chefkartimages/dishes/non_veg_curry_3.jpg",
+    "category": {
+      "id": 3,
+      "name": "Chinese",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/chinese.png",
+      "isRecommendedForMealSuggestion": false
+    },
+    "dishType": "RICE",
+    "forChefit": true,
+    "forParty": true,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 45,
+    "name": "Chicken Fried Rice"
+  },
+  {
+    "categoryId": 3,
+    "mealType": "MAIN COURSE",
+    "type": "VEG",
+    "description": "Stir-fried rice with mixed vegetables and soy sauce.",
+    "image": "https://storage.googleapis.com/chefkartimages/dishes/veg_curry_4.jpg",
+    "category": {
+      "id": 3,
+      "name": "Chinese",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/chinese.png",
+      "isRecommendedForMealSuggestion": false
+    },
+    "dishType": "RICE",
+    "forChefit": true,
+    "forParty": true,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 46,
+    "name": "Veg Fried Rice"
+  },
+  {
+    "categoryId": 3,
+    "mealType": "MAIN COURSE",
+    "type": "NON_VEG",
+    "description": "Crispy pork pieces in sweet and tangy sauce.",
+    "image": "https://storage.googleapis.com/chefkartimages/dishes/non_veg_curry_1.jpg",
+    "category": {
+      "id": 3,
+      "name": "Chinese",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/chinese.png",
+      "isRecommendedForMealSuggestion": false
+    },
+    "dishType": "MAIN COURSE",
+    "forChefit": true,
+    "forParty": true,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 47,
+    "name": "Sweet and Sour Pork"
+  },
+  {
+    "categoryId": 3,
+    "mealType": "NOODLES",
+    "type": "VEG",
+    "description": "Crispy noodles with vegetables and Chinese sauce.",
+    "image": "https://storage.googleapis.com/chefkartimages/dishes/veg_curry_2.jpg",
+    "category": {
+      "id": 3,
+      "name": "Chinese",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/chinese.png",
+      "isRecommendedForMealSuggestion": false
+    },
+    "dishType": "NOODLES",
+    "forChefit": false,
+    "forParty": true,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 48,
+    "name": "Chow Mein"
+  },
+  {
+    "categoryId": 3,
+    "mealType": "STARTER",
+    "type": "NON_VEG",
+    "description": "Boneless chicken in spicy Manchurian sauce.",
+    "image": "https://storage.googleapis.com/chefkartimages/dishes/non_veg_starter_6.jpg",
+    "category": {
+      "id": 3,
+      "name": "Chinese",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/chinese.png",
+      "isRecommendedForMealSuggestion": false
+    },
+    "dishType": "STARTER",
+    "forChefit": false,
+    "forParty": true,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 49,
+    "name": "Chicken Manchurian"
+  },
+  {
+    "categoryId": 3,
+    "mealType": "STARTER",
+    "type": "VEG",
+    "description": "Crispy rolls filled with vegetables and served with sauce.",
+    "image": "https://storage.googleapis.com/chefkartimages/dishes/veg_starter_4.jpg",
+    "category": {
+      "id": 3,
+      "name": "Chinese",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/chinese.png",
+      "isRecommendedForMealSuggestion": false
+    },
+    "dishType": "STARTER",
+    "forChefit": false,
+    "forParty": true,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 50,
+    "name": "Spring Rolls"
+  },
+  {
+    "categoryId": 3,
+    "mealType": "MAIN COURSE",
+    "type": "NON_VEG",
+    "description": "Diced chicken with peanuts and vegetables in spicy sauce.",
+    "image": "https://storage.googleapis.com/chefkartimages/dishes/non_veg_curry_6.jpg",
+    "category": {
+      "id": 3,
+      "name": "Chinese",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/chinese.png",
+      "isRecommendedForMealSuggestion": false
+    },
+    "dishType": "MAIN COURSE",
+    "forChefit": true,
+    "forParty": true,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 51,
+    "name": "Kung Pao Chicken"
+  },
+  {
+    "categoryId": 3,
+    "mealType": "MAIN COURSE",
+    "type": "NON_VEG",
+    "description": "Spicy chicken stir-fry with Szechuan peppercorns.",
+    "image": "https://storage.googleapis.com/chefkartimages/dishes/non_veg_curry_3.jpg",
+    "category": {
+      "id": 3,
+      "name": "Chinese",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/chinese.png",
+      "isRecommendedForMealSuggestion": false
+    },
+    "dishType": "MAIN COURSE",
+    "forChefit": true,
+    "forParty": true,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 52,
+    "name": "Szechuan Chicken"
+  },
+  {
+    "categoryId": 3,
+    "mealType": "STARTER",
+    "type": "VEG",
+    "description": "Crispy potato cubes in sweet and spicy honey chilli sauce.",
+    "image": "https://storage.googleapis.com/chefkartimages/dishes/veg_starter_1.jpg",
+    "category": {
+      "id": 3,
+      "name": "Chinese",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/chinese.png",
+      "isRecommendedForMealSuggestion": false
+    },
+    "dishType": "STARTER",
+    "forChefit": false,
+    "forParty": true,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 53,
+    "name": "Honey Chilli Potato"
+  },
+  {
+    "categoryId": 3,
+    "mealType": "STARTER",
+    "type": "NON_VEG",
+    "description": "Spicy chicken drumettes marinated and deep-fried.",
+    "image": "https://storage.googleapis.com/chefkartimages/dishes/non_veg_starter_4.jpg",
+    "category": {
+      "id": 3,
+      "name": "Chinese",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/chinese.png",
+      "isRecommendedForMealSuggestion": false
+    },
+    "dishType": "STARTER",
+    "forChefit": false,
+    "forParty": true,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 54,
+    "name": "Chicken Lollipop"
+  },
+  {
+    "categoryId": 3,
+    "mealType": "STARTER",
+    "type": "VEG",
+    "description": "Crispy vegetable-filled spring rolls with dipping sauce.",
+    "image": "https://storage.googleapis.com/chefkartimages/dishes/veg_starter_8.jpg",
+    "category": {
+      "id": 3,
+      "name": "Chinese",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/chinese.png",
+      "isRecommendedForMealSuggestion": false
+    },
+    "dishType": "STARTER",
+    "forChefit": false,
+    "forParty": true,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 55,
+    "name": "Veg Spring Rolls"
+  },
+  {
+    "categoryId": 4,
+    "mealType": "MAIN COURSE",
+    "type": "VEG",
+    "description": "Creamy Arborio rice with mixed mushrooms and parmesan cheese.",
+    "image": "https://storage.googleapis.com/chefkartimages/dishes/veg_curry_5.jpg",
+    "category": {
+      "id": 4,
+      "name": "Continental",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/continental.png",
+      "isRecommendedForMealSuggestion": false
+    },
+    "dishType": "MAIN COURSE",
+    "forChefit": true,
+    "forParty": true,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 56,
+    "name": "Mushroom Risotto"
+  },
+  {
+    "categoryId": 4,
+    "mealType": "MAIN COURSE",
+    "type": "NON_VEG",
+    "description": "Herb-marinated chicken breast served with roasted vegetables.",
+    "image": "https://storage.googleapis.com/chefkartimages/dishes/non_veg_curry_7.jpg",
+    "category": {
+      "id": 4,
+      "name": "Continental",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/continental.png",
+      "isRecommendedForMealSuggestion": false
+    },
+    "dishType": "MAIN COURSE",
+    "forChefit": true,
+    "forParty": true,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 57,
+    "name": "Grilled Chicken Breast"
+  },
+  {
+    "categoryId": 4,
+    "mealType": "SIDE DISH",
+    "type": "VEG",
+    "description": "Crisp romaine lettuce with parmesan, croutons and Caesar dressing.",
+    "image": "https://storage.googleapis.com/chefkartimages/dishes/veg_curry_5.jpg",
+    "category": {
+      "id": 4,
+      "name": "Continental",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/continental.png",
+      "isRecommendedForMealSuggestion": false
+    },
+    "dishType": "SALAD",
+    "forChefit": false,
+    "forParty": false,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 58,
+    "name": "Caesar Salad"
+  },
+  {
+    "categoryId": 4,
+    "mealType": "MAIN COURSE",
+    "type": "NON_VEG",
+    "description": "Grilled beef steak with garlic butter and herbs.",
+    "image": "https://storage.googleapis.com/chefkartimages/dishes/non_veg_curry_8.jpg",
+    "category": {
+      "id": 4,
+      "name": "Continental",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/continental.png",
+      "isRecommendedForMealSuggestion": false
+    },
+    "dishType": "MAIN COURSE",
+    "forChefit": true,
+    "forParty": true,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 59,
+    "name": "Beef Steak"
+  },
+  {
+    "categoryId": 4,
+    "mealType": "MAIN COURSE",
+    "type": "VEG",
+    "description": "Creamy fettuccine pasta with garlic and parmesan cheese.",
+    "image": "https://storage.googleapis.com/chefkartimages/dishes/veg_curry_7.jpg",
+    "category": {
+      "id": 4,
+      "name": "Continental",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/continental.png",
+      "isRecommendedForMealSuggestion": false
+    },
+    "dishType": "PASTA",
+    "forChefit": false,
+    "forParty": true,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 60,
+    "name": "Pasta Alfredo"
+  },
+  {
+    "categoryId": 4,
+    "mealType": "MAIN COURSE",
+    "type": "NON_VEG",
+    "description": "Beer-battered fish fillets with crispy french fries.",
+    "image": "https://storage.googleapis.com/chefkartimages/dishes/non_veg_curry_4.jpg",
+    "category": {
+      "id": 4,
+      "name": "Continental",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/continental.png",
+      "isRecommendedForMealSuggestion": false
+    },
+    "dishType": "MAIN COURSE",
+    "forChefit": true,
+    "forParty": true,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 61,
+    "name": "Fish and Chips"
+  },
+  {
+    "categoryId": 4,
+    "mealType": "MAIN COURSE",
+    "type": "VEG",
+    "description": "Layered pasta with vegetables, cheese and tomato sauce.",
+    "image": "https://storage.googleapis.com/chefkartimages/dishes/veg_curry_4.jpg",
+    "category": {
+      "id": 4,
+      "name": "Continental",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/continental.png",
+      "isRecommendedForMealSuggestion": false
+    },
+    "dishType": "MAIN COURSE",
+    "forChefit": true,
+    "forParty": true,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 62,
+    "name": "Vegetable Lasagna"
+  },
+  {
+    "categoryId": 4,
+    "mealType": "MAIN COURSE",
+    "type": "NON_VEG",
+    "description": "Breaded chicken breast with marinara sauce and cheese.",
+    "image": "https://storage.googleapis.com/chefkartimages/dishes/non_veg_curry_5.jpg",
+    "category": {
+      "id": 4,
+      "name": "Continental",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/continental.png",
+      "isRecommendedForMealSuggestion": false
+    },
+    "dishType": "MAIN COURSE",
+    "forChefit": true,
+    "forParty": true,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 63,
+    "name": "Chicken Parmesan"
+  },
+  {
+    "categoryId": 4,
+    "mealType": "SIDE DISH",
+    "type": "VEG",
+    "description": "Fresh vegetables with feta cheese and olive oil dressing.",
+    "image": "https://storage.googleapis.com/chefkartimages/dishes/veg_curry_1.jpg",
+    "category": {
+      "id": 4,
+      "name": "Continental",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/continental.png",
+      "isRecommendedForMealSuggestion": false
+    },
+    "dishType": "SALAD",
+    "forChefit": false,
+    "forParty": false,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 64,
+    "name": "Greek Salad"
+  },
+  {
+    "categoryId": 4,
+    "mealType": "MAIN COURSE",
+    "type": "NON_VEG",
+    "description": "Grilled lamb chops with rosemary and garlic.",
+    "image": "https://storage.googleapis.com/chefkartimages/dishes/non_veg_curry_5.jpg",
+    "category": {
+      "id": 4,
+      "name": "Continental",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/continental.png",
+      "isRecommendedForMealSuggestion": false
+    },
+    "dishType": "MAIN COURSE",
+    "forChefit": true,
+    "forParty": true,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 65,
+    "name": "Lamb Chops"
+  },
+  {
+    "categoryId": 4,
+    "mealType": "SIDE DISH",
+    "type": "VEG",
+    "description": "Fresh mozzarella, tomatoes and basil with balsamic glaze.",
+    "image": "https://storage.googleapis.com/chefkartimages/dishes/veg_curry_6.jpg",
+    "category": {
+      "id": 4,
+      "name": "Continental",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/continental.png",
+      "isRecommendedForMealSuggestion": false
+    },
+    "dishType": "SALAD",
+    "forChefit": false,
+    "forParty": false,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 66,
+    "name": "Caprese Salad"
+  },
+  {
+    "categoryId": 4,
+    "mealType": "MAIN COURSE",
+    "type": "NON_VEG",
+    "description": "Grilled salmon glazed with teriyaki sauce.",
+    "image": "https://storage.googleapis.com/chefkartimages/dishes/non_veg_curry_5.jpg",
+    "category": {
+      "id": 4,
+      "name": "Continental",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/continental.png",
+      "isRecommendedForMealSuggestion": false
+    },
+    "dishType": "MAIN COURSE",
+    "forChefit": true,
+    "forParty": true,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 67,
+    "name": "Salmon Teriyaki"
+  },
+  {
+    "categoryId": 4,
+    "mealType": "MAIN COURSE",
+    "type": "VEG",
+    "description": "Bell peppers stuffed with rice, vegetables and herbs.",
+    "image": "https://storage.googleapis.com/chefkartimages/dishes/veg_curry_8.jpg",
+    "category": {
+      "id": 4,
+      "name": "Continental",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/continental.png",
+      "isRecommendedForMealSuggestion": false
+    },
+    "dishType": "MAIN COURSE",
+    "forChefit": true,
+    "forParty": true,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 68,
+    "name": "Stuffed Bell Peppers"
+  },
+  {
+    "categoryId": 4,
+    "mealType": "SNACKS",
+    "type": "NON_VEG",
+    "description": "Grilled chicken with Caesar salad wrapped in tortilla.",
+    "image": "https://storage.googleapis.com/chefkartimages/dishes/non_veg_curry_8.jpg",
+    "category": {
+      "id": 4,
+      "name": "Continental",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/continental.png",
+      "isRecommendedForMealSuggestion": false
+    },
+    "dishType": "WRAP",
+    "forChefit": false,
+    "forParty": true,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 69,
+    "name": "Chicken Caesar Wrap"
+  },
+  {
+    "categoryId": 4,
+    "mealType": "SOUP",
+    "type": "VEG",
+    "description": "Italian vegetable soup with beans and pasta.",
+    "image": "https://storage.googleapis.com/chefkartimages/dishes/veg_curry_8.jpg",
+    "category": {
+      "id": 4,
+      "name": "Continental",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/continental.png",
+      "isRecommendedForMealSuggestion": false
+    },
+    "dishType": "SOUP",
+    "forChefit": false,
+    "forParty": false,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 70,
+    "name": "Minestrone Soup"
+  },
+  {
+    "categoryId": 5,
+    "mealType": "MAIN COURSE",
+    "type": "NON_VEG",
+    "description": "Fragrant basmati rice layered with spiced chicken and saffron.",
+    "image": "https://storage.googleapis.com/chefkartimages/dishes/non_veg_curry_4.jpg",
+    "category": {
+      "id": 5,
+      "name": "Biryani & Rice",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/biryani.png",
+      "isRecommendedForMealSuggestion": true
+    },
+    "dishType": "RICE",
+    "forChefit": true,
+    "forParty": true,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 71,
+    "name": "Chicken Biryani"
+  },
+  {
+    "categoryId": 5,
+    "mealType": "MAIN COURSE",
+    "type": "VEG",
+    "description": "Aromatic rice cooked with mixed vegetables and whole spices.",
+    "image": "https://storage.googleapis.com/chefkartimages/dishes/veg_curry_4.jpg",
+    "category": {
+      "id": 5,
+      "name": "Biryani & Rice",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/biryani.png",
+      "isRecommendedForMealSuggestion": true
+    },
+    "dishType": "RICE",
+    "forChefit": true,
+    "forParty": true,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 72,
+    "name": "Vegetable Biryani"
+  },
+  {
+    "categoryId": 5,
+    "mealType": "MAIN COURSE",
+    "type": "NON_VEG",
+    "description": "Traditional biryani with tender mutton pieces and aged basmati rice.",
+    "image": "https://storage.googleapis.com/chefkartimages/dishes/non_veg_curry_3.jpg",
+    "category": {
+      "id": 5,
+      "name": "Biryani & Rice",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/biryani.png",
+      "isRecommendedForMealSuggestion": true
+    },
+    "dishType": "RICE",
+    "forChefit": true,
+    "forParty": true,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 73,
+    "name": "Mutton Biryani"
+  },
+  {
+    "categoryId": 5,
+    "mealType": "MAIN COURSE",
+    "type": "NON_VEG",
+    "description": "Coastal-style biryani with fresh fish and aromatic spices.",
+    "image": "https://storage.googleapis.com/chefkartimages/dishes/non_veg_curry_2.jpg",
+    "category": {
+      "id": 5,
+      "name": "Biryani & Rice",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/biryani.png",
+      "isRecommendedForMealSuggestion": true
+    },
+    "dishType": "RICE",
+    "forChefit": true,
+    "forParty": true,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 74,
+    "name": "Fish Biryani"
+  },
+  {
+    "categoryId": 5,
+    "mealType": "MAIN COURSE",
+    "type": "VEG",
+    "description": "Fragrant rice with marinated paneer and saffron.",
+    "image": "https://storage.googleapis.com/chefkartimages/dishes/veg_curry_7.jpg",
+    "category": {
+      "id": 5,
+      "name": "Biryani & Rice",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/biryani.png",
+      "isRecommendedForMealSuggestion": true
+    },
+    "dishType": "RICE",
+    "forChefit": true,
+    "forParty": true,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 75,
+    "name": "Paneer Biryani"
+  },
+  {
+    "categoryId": 5,
+    "mealType": "MAIN COURSE",
+    "type": "NON_VEG",
+    "description": "Spiced basmati rice with fresh prawns and coconut.",
+    "image": "https://storage.googleapis.com/chefkartimages/dishes/non_veg_curry_5.jpg",
+    "category": {
+      "id": 5,
+      "name": "Biryani & Rice",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/biryani.png",
+      "isRecommendedForMealSuggestion": true
+    },
+    "dishType": "RICE",
+    "forChefit": true,
+    "forParty": true,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 76,
+    "name": "Prawn Biryani"
+  },
+  {
+    "categoryId": 5,
+    "mealType": "MAIN COURSE",
+    "type": "NON_VEG",
+    "description": "Aromatic rice layered with spiced boiled eggs.",
+    "image": "https://storage.googleapis.com/chefkartimages/dishes/non_veg_curry_5.jpg",
+    "category": {
+      "id": 5,
+      "name": "Biryani & Rice",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/biryani.png",
+      "isRecommendedForMealSuggestion": true
+    },
+    "dishType": "RICE",
+    "forChefit": true,
+    "forParty": true,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 77,
+    "name": "Egg Biryani"
+  },
+  {
+    "categoryId": 5,
+    "mealType": "MAIN COURSE",
+    "type": "VEG",
+    "description": "Fragrant rice with marinated mushrooms and herbs.",
+    "image": "https://storage.googleapis.com/chefkartimages/dishes/veg_curry_3.jpg",
+    "category": {
+      "id": 5,
+      "name": "Biryani & Rice",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/biryani.png",
+      "isRecommendedForMealSuggestion": true
+    },
+    "dishType": "RICE",
+    "forChefit": true,
+    "forParty": true,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 78,
+    "name": "Mushroom Biryani"
+  },
+  {
+    "categoryId": 5,
+    "mealType": "MAIN COURSE",
+    "type": "VEG",
+    "description": "Basmati rice flavored with cumin and whole spices.",
+    "image": "https://storage.googleapis.com/chefkartimages/dishes/veg_curry_8.jpg",
+    "category": {
+      "id": 5,
+      "name": "Biryani & Rice",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/biryani.png",
+      "isRecommendedForMealSuggestion": true
+    },
+    "dishType": "RICE",
+    "forChefit": true,
+    "forParty": true,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 79,
+    "name": "Jeera Rice"
+  },
+  {
+    "categoryId": 5,
+    "mealType": "MAIN COURSE",
+    "type": "VEG",
+    "description": "Tangy rice with lemon, curry leaves and peanuts.",
+    "image": "https://storage.googleapis.com/chefkartimages/dishes/veg_curry_4.jpg",
+    "category": {
+      "id": 5,
+      "name": "Biryani & Rice",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/biryani.png",
+      "isRecommendedForMealSuggestion": true
+    },
+    "dishType": "RICE",
+    "forChefit": true,
+    "forParty": true,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 80,
+    "name": "Lemon Rice"
+  },
+  {
+    "categoryId": 5,
+    "mealType": "MAIN COURSE",
+    "type": "VEG",
+    "description": "Fragrant rice cooked with coconut milk and curry leaves.",
+    "image": "https://storage.googleapis.com/chefkartimages/dishes/veg_curry_3.jpg",
+    "category": {
+      "id": 5,
+      "name": "Biryani & Rice",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/biryani.png",
+      "isRecommendedForMealSuggestion": true
+    },
+    "dishType": "RICE",
+    "forChefit": true,
+    "forParty": true,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 81,
+    "name": "Coconut Rice"
+  },
+  {
+    "categoryId": 5,
+    "mealType": "MAIN COURSE",
+    "type": "NON_VEG",
+    "description": "Mildly spiced rice cooked with chicken pieces.",
+    "image": "https://storage.googleapis.com/chefkartimages/dishes/non_veg_curry_2.jpg",
+    "category": {
+      "id": 5,
+      "name": "Biryani & Rice",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/biryani.png",
+      "isRecommendedForMealSuggestion": true
+    },
+    "dishType": "RICE",
+    "forChefit": true,
+    "forParty": true,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 82,
+    "name": "Chicken Pulao"
+  },
+  {
+    "categoryId": 5,
+    "mealType": "MAIN COURSE",
+    "type": "VEG",
+    "description": "Aromatic rice with mixed vegetables and whole spices.",
+    "image": "https://storage.googleapis.com/chefkartimages/dishes/veg_curry_3.jpg",
+    "category": {
+      "id": 5,
+      "name": "Biryani & Rice",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/biryani.png",
+      "isRecommendedForMealSuggestion": true
+    },
+    "dishType": "RICE",
+    "forChefit": true,
+    "forParty": true,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 83,
+    "name": "Vegetable Pulao"
+  },
+  {
+    "categoryId": 5,
+    "mealType": "MAIN COURSE",
+    "type": "VEG",
+    "description": "Simple rice cooked in pure ghee with whole spices.",
+    "image": "https://storage.googleapis.com/chefkartimages/dishes/veg_curry_8.jpg",
+    "category": {
+      "id": 5,
+      "name": "Biryani & Rice",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/biryani.png",
+      "isRecommendedForMealSuggestion": true
+    },
+    "dishType": "RICE",
+    "forChefit": true,
+    "forParty": true,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 84,
+    "name": "Ghee Rice"
+  },
+  {
+    "categoryId": 5,
+    "mealType": "MAIN COURSE",
+    "type": "VEG",
+    "description": "Cooling rice mixed with yogurt and tempered with spices.",
+    "image": "https://storage.googleapis.com/chefkartimages/dishes/veg_curry_7.jpg",
+    "category": {
+      "id": 5,
+      "name": "Biryani & Rice",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/biryani.png",
+      "isRecommendedForMealSuggestion": true
+    },
+    "dishType": "RICE",
+    "forChefit": true,
+    "forParty": true,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 85,
+    "name": "Curd Rice"
+  },
+  {
+    "categoryId": 6,
+    "mealType": "DESSERT",
+    "type": "VEG",
+    "description": "Soft milk dumplings soaked in rose-flavored sugar syrup.",
+    "image": "https://storage.googleapis.com/chefkartimages/dishes/veg_curry_6.jpg",
+    "category": {
+      "id": 6,
+      "name": "Desserts",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/desserts.png",
+      "isRecommendedForMealSuggestion": false
+    },
+    "dishType": "DESSERT",
+    "forChefit": false,
+    "forParty": false,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 86,
+    "name": "Gulab Jamun"
+  },
+  {
+    "categoryId": 6,
+    "mealType": "DESSERT",
+    "type": "VEG",
+    "description": "Spongy cottage cheese balls in sweet syrup.",
+    "image": "https://storage.googleapis.com/chefkartimages/dishes/veg_curry_4.jpg",
+    "category": {
+      "id": 6,
+      "name": "Desserts",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/desserts.png",
+      "isRecommendedForMealSuggestion": false
+    },
+    "dishType": "DESSERT",
+    "forChefit": false,
+    "forParty": false,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 87,
+    "name": "Rasgulla"
+  },
+  {
+    "categoryId": 6,
+    "mealType": "DESSERT",
+    "type": "VEG",
+    "description": "Creamy rice pudding with milk, sugar and cardamom.",
+    "image": "https://storage.googleapis.com/chefkartimages/dishes/veg_curry_6.jpg",
+    "category": {
+      "id": 6,
+      "name": "Desserts",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/desserts.png",
+      "isRecommendedForMealSuggestion": false
+    },
+    "dishType": "DESSERT",
+    "forChefit": false,
+    "forParty": false,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 88,
+    "name": "Kheer"
+  },
+  {
+    "categoryId": 6,
+    "mealType": "DESSERT",
+    "type": "VEG",
+    "description": "Traditional Indian ice cream with cardamom and pistachios.",
+    "image": "https://storage.googleapis.com/chefkartimages/dishes/veg_curry_1.jpg",
+    "category": {
+      "id": 6,
+      "name": "Desserts",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/desserts.png",
+      "isRecommendedForMealSuggestion": false
+    },
+    "dishType": "DESSERT",
+    "forChefit": false,
+    "forParty": false,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 89,
+    "name": "Kulfi"
+  },
+  {
+    "categoryId": 6,
+    "mealType": "DESSERT",
+    "type": "VEG",
+    "description": "Crispy spiral-shaped sweet soaked in sugar syrup.",
+    "image": "https://storage.googleapis.com/chefkartimages/dishes/veg_curry_3.jpg",
+    "category": {
+      "id": 6,
+      "name": "Desserts",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/desserts.png",
+      "isRecommendedForMealSuggestion": false
+    },
+    "dishType": "DESSERT",
+    "forChefit": false,
+    "forParty": false,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 90,
+    "name": "Jalebi"
+  },
+  {
+    "categoryId": 6,
+    "mealType": "DESSERT",
+    "type": "VEG",
+    "description": "Soft cottage cheese dumplings in sweetened milk.",
+    "image": "https://storage.googleapis.com/chefkartimages/dishes/veg_curry_3.jpg",
+    "category": {
+      "id": 6,
+      "name": "Desserts",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/desserts.png",
+      "isRecommendedForMealSuggestion": false
+    },
+    "dishType": "DESSERT",
+    "forChefit": false,
+    "forParty": false,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 91,
+    "name": "Ras Malai"
+  },
+  {
+    "categoryId": 6,
+    "mealType": "DESSERT",
+    "type": "VEG",
+    "description": "Sweet carrot pudding with milk, ghee and nuts.",
+    "image": "https://storage.googleapis.com/chefkartimages/dishes/veg_curry_1.jpg",
+    "category": {
+      "id": 6,
+      "name": "Desserts",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/desserts.png",
+      "isRecommendedForMealSuggestion": false
+    },
+    "dishType": "DESSERT",
+    "forChefit": false,
+    "forParty": false,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 92,
+    "name": "Gajar Halwa"
+  },
+  {
+    "categoryId": 6,
+    "mealType": "DESSERT",
+    "type": "VEG",
+    "description": "South Indian sweet pudding with vermicelli or rice.",
+    "image": "https://storage.googleapis.com/chefkartimages/dishes/veg_curry_6.jpg",
+    "category": {
+      "id": 6,
+      "name": "Desserts",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/desserts.png",
+      "isRecommendedForMealSuggestion": false
+    },
+    "dishType": "DESSERT",
+    "forChefit": false,
+    "forParty": false,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 93,
+    "name": "Payasam"
+  },
+  {
+    "categoryId": 6,
+    "mealType": "DESSERT",
+    "type": "VEG",
+    "description": "Creamy frozen dessert in various flavors.",
+    "image": "https://storage.googleapis.com/chefkartimages/dishes/veg_curry_3.jpg",
+    "category": {
+      "id": 6,
+      "name": "Desserts",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/desserts.png",
+      "isRecommendedForMealSuggestion": false
+    },
+    "dishType": "DESSERT",
+    "forChefit": false,
+    "forParty": false,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 94,
+    "name": "Ice Cream"
+  },
+  {
+    "categoryId": 6,
+    "mealType": "DESSERT",
+    "type": "VEG",
+    "description": "Rich chocolate cake with creamy frosting.",
+    "image": "https://storage.googleapis.com/chefkartimages/dishes/veg_curry_7.jpg",
+    "category": {
+      "id": 6,
+      "name": "Desserts",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/desserts.png",
+      "isRecommendedForMealSuggestion": false
+    },
+    "dishType": "DESSERT",
+    "forChefit": false,
+    "forParty": false,
+    "nameHi": "",
+    "nameBn": "",
+    "id": 95,
+    "name": "Chocolate Cake"
+  }
+]
